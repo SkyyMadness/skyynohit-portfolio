@@ -1,6 +1,9 @@
 # SkyyNoHit_ Portfolio
 
 Este es mi portafolio personal como estudiante de Programación de Software. Incluye mi biografía, habilidades técnicas, metas personales y proyectos destacados.
+## 📁 Estructura
+
+- `index.html`: Archivo principal del sitio web.
 
 ## 🌍 En línea
 
