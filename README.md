@@ -8,10 +8,6 @@ Este es mi portafolio personal como estudiante de Programación de Software. Inc
 
 ## 🌍 En línea
 
-Puedes subir este portafolio fácilmente a:
-
-- **GitHub Pages**: https://pages.github.com/
-- **Netlify**: https://www.netlify.com/
 
 ## 📬 Contacto
 
